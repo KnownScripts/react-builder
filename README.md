@@ -1,8 +1,8 @@
 # react-builder
 React Builder for Fivem and RedM
 
-# Install modules
+## Install modules
 
-´´´
+```
 pnpm i
-´´´
+```
